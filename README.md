@@ -12,7 +12,6 @@ Feel free to explore the code and use it for learning or practice purposes.
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
@@ -36,3 +35,11 @@ Feel free to explore the code and use it for learning or practice purposes.
    ```bash
    npm run dev
    ```
+
+## Usage
+
+Each JavaScript file in this repository corresponds to a different problem or code riddle. You can explore the solutions and use them for learning or practice.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.

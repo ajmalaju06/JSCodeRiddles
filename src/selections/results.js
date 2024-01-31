@@ -16,7 +16,7 @@ function results(answers) {
     case exampleResultSelections[0].name:
       getInput("Type nested Array").then((value) => {
         const sum = sumOfNestedArrays(JSON.parse(value));
-        if (result) console.log(sum);
+        if (sum) console.log(sum);
       });
       break;
     case exampleResultSelections[1].name:
